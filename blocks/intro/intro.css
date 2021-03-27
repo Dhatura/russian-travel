@@ -1,0 +1,19 @@
+.intro {
+  padding: 92px 0;
+  display: grid;
+  grid-template-columns: fit-content(690px);
+}
+
+@media (max-width: 768px) {
+  .intro {
+    grid-template-columns: fit-content(720px);
+    padding: 88px 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .intro {
+    grid-template-columns: fit-content(288px);
+    padding: 64px 0;
+  }
+}
