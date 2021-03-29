@@ -2,6 +2,7 @@
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
     src: url('./inter-v3-latin_cyrillic-regular.woff2') format('woff2'),
         url('./inter-v3-latin_cyrillic-regular.woff') format('woff'),
         url('./inter-v3-latin_cyrillic-regular.ttf') format('truetype');
@@ -10,7 +11,18 @@
 @font-face {
   font-family: 'Inter';
   font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./inter-v3-latin_cyrillic-700.woff2') format('woff2'),
+      url('./inter-v3-latin_cyrillic-700.woff') format('woff'),
+      url('./inter-v3-latin_cyrillic-700.ttf') format('truetype');
+  }
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
   font-weight: 900;
+  font-display: swap;
     src: url('./inter-v3-latin_cyrillic-900.woff2') format('woff2'),
         url('./inter-v3-latin_cyrillic-900.woff') format('woff'),
         url('./inter-v3-latin_cyrillic-900.ttf') format('truetype');
