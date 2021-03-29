@@ -11,7 +11,7 @@
   padding-bottom: 0;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1150px) {
   .place {
     max-width: 928px;
     grid-template-columns: 440px 1fr;
@@ -24,14 +24,14 @@
     max-width: 720px;
     grid-template-columns: 340px 1fr;
     column-gap: 28px;
-    padding-bottom: 73px;
+    padding-bottom: 70px;
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 715px) {
   .place {
     grid-template-columns: 1fr;
     gap: 32px;
-    padding-bottom: 50px;
+    padding-bottom: 55px;
   }
 }

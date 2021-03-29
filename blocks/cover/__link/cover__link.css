@@ -38,7 +38,7 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 715px) {
   .cover__link {
     padding: 33px 16px;
   }

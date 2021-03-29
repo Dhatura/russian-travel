@@ -3,23 +3,23 @@
   font-style: normal;
   font-weight: normal;
   font-size: 30px;
-  line-height: 36px;
+  line-height: 1.2;
   text-align: center;
   margin: 32px auto 64px;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1150px) {
   .lead__subtitle {
     margin-bottom:  56px;
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 715px) {
   .lead__subtitle {
     max-width: 288px;
     margin: 16px auto 40px;
     font-size: 16px;
-    line-height: 20px;
+    line-height: 1.25;
   }
 }
 

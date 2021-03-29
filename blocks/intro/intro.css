@@ -3,7 +3,7 @@
   padding: 92px 0;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1150px) {
   .intro {
     max-width: 928px;
     padding-left: 48px;
@@ -11,14 +11,14 @@
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .intro {
     max-width: 720px;
     padding: 88px 24px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 715px) {
   .intro {
     padding: 64px 16px;
   }

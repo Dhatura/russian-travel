@@ -2,7 +2,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1.22;
   text-align: center;
   margin: 0 auto;
   max-width: 360px;
@@ -11,6 +11,6 @@
 @media (max-width: 715px) {
   .cover__subtitle {
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
   }
 }
